@@ -1,4 +1,7 @@
-package methods;
+//    Copyright (c) The League of Amazing Programmers 2013-2019
+//    Level 0
+
+package _07_animal_farm;
 
 import java.applet.AudioClip;
 

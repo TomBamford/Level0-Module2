@@ -1,7 +1,7 @@
-//    Copyright (c) The League of Amazing Programmers 2013-2017
+//    Copyright (c) The League of Amazing Programmers 2013-2019
 //    Level 0
 
-package random;
+package _03_dice_roll;
 
 import java.awt.Dimension;
 import javax.swing.Icon;

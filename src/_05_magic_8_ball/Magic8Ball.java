@@ -1,8 +1,8 @@
-//    Copyright (c) The League of Amazing Programmers 2013-2018
+//    Copyright (c) The League of Amazing Programmers 2013-2019
 //    Level 0
 
 
-package random;
+package _05_magic_8_ball;
 
 import java.util.Random;
 

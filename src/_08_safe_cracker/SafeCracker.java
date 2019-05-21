@@ -1,4 +1,8 @@
-package methods;
+//    Copyright (c) The League of Amazing Programmers 2013-2019
+//    Level 0
+
+
+package _08_safe_cracker;
 
 import java.applet.AudioClip;
 import java.io.File;
