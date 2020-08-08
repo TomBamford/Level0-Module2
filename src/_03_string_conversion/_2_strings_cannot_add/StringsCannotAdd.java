@@ -5,7 +5,16 @@ import javax.swing.JOptionPane;
 public class StringsCannotAdd {
 
 		// 1) Make a main method that includes all the steps below…. 
-		
+			public static void main(String[] args) {
+				String quantity = JOptionPane.showInputDialog("Enter the number 4");
+				int fourAsString = Integer.parseInt(quantity);
+				quantity = JOptionPane.showInputDialog("Enter the number 6");
+				int sixAsString = Integer.parseInt(quantity);
+				quantity = JOptionPane.showInputDialog("Enter the number 5");
+				int fiveAsString = Integer.parseInt(quantity);
+				System.out.println(fourAsString + sixAsString + fiveAsString);
+			}
+			
 			// 2) Ask the user to enter number 4 and hold it in the variable fourAsString 
 			
 			// 3) Ask the user to enter number 6 and hold it in the variable sixAsString 
